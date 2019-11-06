@@ -1,7 +1,7 @@
 ## Description
 Automatization process.
 
-Run an executable Python via urllib and make requests to the server:
+Run an executable Python script via urllib and make requests to the server:
 
 1. -urllib
 
